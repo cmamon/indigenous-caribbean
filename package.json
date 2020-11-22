@@ -1,14 +1,14 @@
 {
-  "name": "indigenous-caribbean",
+  "name": "indigenous-caribbean-api",
   "version": "1.0.0",
-  "description": "Map of the Caribbean countries with Indigenous names and informations",
+  "description": "API providing data for the Indigenous Caribbean Map website",
   "main": "index.js",
   "scripts": {
     "start": "node src/index.js",
     "dev": "nodemon src/index.js",
     "lint": "eslint src/"
   },
-  "repository": "git@github.com:cmamon/indigenous-caribbean.git",
+  "repository": "git@github.com:cmamon/indigenous-caribbean-api.git",
   "author": "cmamon <christophe.quenette@gmail.com>",
   "license": "MIT",
   "dependencies": {
