@@ -1,8 +1,3 @@
-# indigenous-caribbean-api
+# indigenous-caribbean
 
-API providing data for the Indigenous Caribbean Map website
-
-### Enpoints
-
-* GET */*
-  * Returns list of different places (countries or regions) with their indigenous informations 
+Map of the Caribbean countries with Indigenous names and informations
