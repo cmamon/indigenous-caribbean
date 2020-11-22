@@ -23,7 +23,9 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use(cors());
 app.use(helmet());
 
-app.use(express.static(path.join(__dirname, 'public')));
+app.set('views', path.join(__dirname, 'views'));
+app.set('view engine', 'ejs');
+
 app.use('/', router);
 app.use(middlewares.notFound);
 app.use(middlewares.errorHandler);
@@ -43,5 +45,7 @@ connectToDB()
     });
   })
   .catch((err) => {
+    // eslint-disable-next-line no-console
+    console.error(err.message);
     throw new Error(err.message);
   });
