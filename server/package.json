@@ -4,11 +4,12 @@
   "description": "Map of the Caribbean countries with Indigenous names and informations",
   "main": "index.js",
   "scripts": {
-    "start": "node src/index.js",
-    "dev": "nodemon src/index.js",
-    "lint": "eslint src/"
+    "watch": "tsc -w",
+    "start": "node dist/index.js",
+    "dev": "nodemon dist/index.js",
+    "lint": "eslint ./src/"
   },
-  "repository": "git@github.com:cmamon/indigenous-caribbean.git",
+  "repository": "git@github.com:cmamon/indigenous-caribbean-server.git",
   "author": "cmamon <christophe.quenette@gmail.com>",
   "license": "MIT",
   "dependencies": {
@@ -17,16 +18,25 @@
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
-    "ejs": "^3.1.5",
     "express": "^4.17.1",
     "helmet": "^4.2.0",
-    "mongoose": "^5.10.15",
-    "morgan": "^1.10.0"
+    "morgan": "^1.10.0",
+    "pg": "^8.5.1",
+    "pg-hstore": "^2.3.3",
+    "reflect-metadata": "^0.1.13",
+    "typeorm": "^0.2.29"
   },
   "devDependencies": {
+    "@types/cors": "^2.8.9",
+    "@types/express": "^4.17.9",
+    "@types/mapbox__mapbox-sdk": "^0.11.0",
+    "@types/morgan": "^1.9.2",
+    "@typescript-eslint/eslint-plugin": "^4.10.0",
+    "@typescript-eslint/parser": "^4.10.0",
     "eslint": "^7.13.0",
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-plugin-import": "^2.22.1",
-    "nodemon": "^2.0.6"
+    "nodemon": "^2.0.6",
+    "typescript": "^4.1.2"
   }
 }

@@ -1,0 +1,176 @@
+[
+  {
+    "name": "Angilla",
+    "indigenousNames": ["Malliouhana"],
+    "indigenousPeople": "Arawak",
+    "indigenousNameMeaning": "Arrow-shaped serpent"
+  },
+  {
+    "name": "Antigua",
+    "indigenousNames": ["Waladli"],
+    "indigenousPeople": "Kalinago",
+    "indigenousNameMeaning": "Land of fish oil"
+  },
+  {
+    "name": "Barbados",
+    "indigenousNames": ["Ichirouganaim"],
+    "indigenousPeople": "Arawak",
+    "indigenousNameMeaning": "Red Island - Island with white teeth"
+  },
+  {
+    "name": "Barbuda",
+    "indigenousNames": ["Wa'onomi"],
+    "indigenousPeople": "Kalinago",
+    "indigenousNameMeaning": "Land of the herons - Land of the large birds"
+  },
+  {
+    "name": "Bequia",
+    "indigenousNames": ["Becouya"],
+    "indigenousPeople": "Kalinago",
+    "indigenousNameMeaning": "Island of the clouds"
+  },
+  {
+    "name": "Canouan",
+    "indigenousNames": ["Cannouan"],
+    "indigenousPeople": "Kalinago",
+    "indigenousNameMeaning": "Island of turtles"
+  },
+  {
+    "name": "Carriacou",
+    "indigenousNames": ["Kayryouacou"],
+    "indigenousPeople": "Kalinago",
+    "indigenousNameMeaning": "Island of reefs"
+  },
+  {
+    "name": "Cuba",
+    "indigenousNames": ["Cobao"],
+    "indigenousPeople": "Taino",
+    "indigenousNameMeaning": "Place where fertile land is abundant - Great place"
+  },
+  {
+    "name": "Dominica",
+    "indigenousNames": ["Wai'tukubuli", "Kairi"],
+    "indigenousPeople": "Kalinago",
+    "indigenousNameMeaning": "Tall is her body"
+  },
+  {
+    "name": "Grenada",
+    "indigenousNames": ["Camerhogne"],
+    "indigenousPeople": "Kalinago - Galibi",
+    "indigenousNameMeaning": "Conception island"
+  },
+  {
+    "name": "Guadeloupe",
+    "indigenousNames": ["Karukera"],
+    "indigenousPeople": "Kalinago",
+    "indigenousNameMeaning": "Island of gumtrees"
+  },
+  {
+    "name": "Hispaniola",
+    "indigenousNames": ["Ayiti", "Kiskeya"],
+    "indigenousPeople": "Taino",
+    "indigenousNameMeaning": "Rough earth - Mother of all lands - Land of the mountains"
+  },
+  {
+    "name": "Jamaica",
+    "indigenousNames": ["Xaymaca"],
+    "indigenousPeople": "Taino",
+    "indigenousNameMeaning": "Land of wood and water - Land of springs"
+  },
+  {
+    "name": "Marie-Galante",
+    "indigenousNames": ["Aichi", "Touloukarera", "Aulinagan"],
+    "indigenousPeople": "Kalinago - Arawak",
+    "indigenousNameMeaning": "Land of chili peppers - Land of touloulou crabs - Land of cotton"
+  },
+  {
+    "name": "Martinique",
+    "indigenousNames": ["Madinina", "Jouanacaeira"],
+    "indigenousPeople": "Kalinago",
+    "indigenousNameMeaning": "Land of flowers - Land of Iguana"
+  },
+  {
+    "name": "Monserrat",
+    "indigenousNames": ["Alliouagana"],
+    "indigenousPeople": "Kalinago",
+    "indigenousNameMeaning": "Land of prickly bush"
+  },
+  {
+    "name": "Nevis",
+    "indigenousNames": ["Oualie"],
+    "indigenousPeople": "Kalinago",
+    "indigenousNameMeaning": "Land of beautiful water"
+  },
+  {
+    "name": "Puerto Rico",
+    "indigenousNames": ["Borikén"],
+    "indigenousPeople": "Taino",
+    "indigenousNameMeaning": "Land of the valiant and noble lord"
+  },
+  {
+    "name": "Redonda",
+    "indigenousNames": ["Ocananmanru"],
+    "indigenousPeople": "Kalinago",
+    "indigenousNameMeaning": "Unknown"
+  },
+  {
+    "name": "Saba",
+    "indigenousNames": ["Siba", "Amonhana"],
+    "indigenousPeople": "Arawak",
+    "indigenousNameMeaning": "The rock"
+  },
+  {
+    "name": "Saint Barthelemy",
+    "indigenousNames": ["Ouanalao"],
+    "indigenousPeople": "Arawak",
+    "indigenousNameMeaning": "Toad on Top"
+  },
+  {
+    "name": "Saint Croix",
+    "indigenousNames": ["Ay Ay"],
+    "indigenousPeople": "Taino",
+    "indigenousNameMeaning": "The River"
+  },
+  {
+    "name": "Saint Kitts",
+    "indigenousNames": ["Liamuiga"],
+    "indigenousPeople": "Kalinago",
+    "indigenousNameMeaning": "Fertile land"
+  },
+  {
+    "name": "Saint Lucia",
+    "indigenousNames": ["Hewanorra", "Iyanola"],
+    "indigenousPeople": "Kalinago",
+    "indigenousNameMeaning": "Land of the iguana"
+  },
+  {
+    "name": "Saint Martin",
+    "indigenousNames": ["Soualiga", "Oualichi"],
+    "indigenousPeople": "",
+    "indigenousNameMeaning": "Land of salt - Land of beautiful women"
+  },
+  {
+    "name": "Saint Vincent",
+    "indigenousNames": ["Hairouna"],
+    "indigenousPeople": "Kalinago",
+    "indigenousNameMeaning": "Land of the blessed"
+  },
+  {
+    "name": "Sint Eustatius",
+    "indigenousNames": ["Aloi"],
+    "indigenousPeople": "Arawak",
+    "indigenousNameMeaning": "Cashew tree"
+  },
+  {
+    "name": "Tobago",
+    "indigenousNames": ["Tobago"],
+    "indigenousPeople": "Kalinago - Galibi",
+    "indigenousNameMeaning": "Tobacco Pipe"
+  },
+  {
+    "name": "Trinidad",
+    "indigenousNames": ["Kairi", "Iere"],
+    "indigenousPeople": "Kalinago",
+    "indigenousNameMeaning": "Land of the hummingbird"
+  }
+]
